@@ -1,0 +1,42 @@
+target/
+.mvn
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.settings/
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+#exclude log & build#
+
+.svn
+**.log
+**.class
+node_modules
+.directory
+package-lock.json
+webapp
+
+/package-lock.json
+/package-lock.json~03155eb383c601f9a72ef04d5e111dd45a04ada6
+*.attach_pid*
+*.lock
+*.classpath
+Smart2GoSchduleEngine/
